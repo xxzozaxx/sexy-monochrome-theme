@@ -3,12 +3,13 @@ This theme is just fork from [sexy-monochrome-theme](https://github.com/voloyev/
 
 ## Screenshots
 ### markdown(right) & Source Code(left)
-
-![Simple monochrome theme source code](https://raw.githubusercontent.com/nuncostans/sexy-monochrome-theme/master/sexy-monochrome-theme.png)
+![Simple monochrome theme source code](https://github.com/xxzozaxx/sexy-monochrome-theme/blob/master/simpleMonoSC.png?raw=true)
 
 ### Org-mode (spacemacs markdown layer README.org)
+![Simple monochrome theme org-mode](https://github.com/xxzozaxx/sexy-monochrome-theme/blob/master/simpleMonoORG.png?raw=true)
 
 ### randowm file (racket)
+![Simple monochrome theme racket](https://github.com/xxzozaxx/sexy-monochrome-theme/blob/master/simpleMonoR.png)
 
 ## Installation
  throw this file into ~/.emacs.d and_
