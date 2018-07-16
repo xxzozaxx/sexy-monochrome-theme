@@ -1,6 +1,9 @@
 # Sexy monochrome theme for emacs
 This theme is just fork from [sexy-monochrome-theme](https://github.com/voloyev/sexy-monochrome-theme) which is based on the Xavier Noria [monochrome-theme](https://github.com/fxn/monochrome-theme.el). And impressed by ["Monochrome color scheme for Vim"](https://github.com/fxn/vim-monochrome)
 
+## but why ?
+I think colour make me confused when you start hacking. However, I would recommend using colors when you are learning new language.
+
 ## Screenshots
 ### markdown(right) & Source Code(left)
 ![Simple monochrome theme source code](https://github.com/xxzozaxx/sexy-monochrome-theme/blob/master/simpleMonoSC.png?raw=true)
